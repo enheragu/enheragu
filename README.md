@@ -1,6 +1,6 @@
 ### Hi there. I kind of love stats, so there it goes 👋
 
-[![Enheragu's GitHub stats](https://github-readme-stats.vercel.app/api?username=enheragu)](https://github.com/enheragu/github-readme-stats)
+[![Enheragu's GitHub stats](https://github-readme-stats.vercel.app/api?username=enheragu&theme=transparent&show_icons=true)](https://github.com/enheragu/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enheragu&theme=transparent)](https://git.io/streak-stats)
 
 <!--

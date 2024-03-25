@@ -1,7 +1,9 @@
 ### Hi there. I kind of love stats, so there it goes 👋
 
-[![Enheragu's GitHub stats](https://github-readme-stats.vercel.app/api?username=enheragu&theme=transparent&show_icons=true)](https://github.com/enheragu/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enheragu&theme=transparent)](https://git.io/streak-stats)
+<p align="center">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=enheragu&theme=transparent&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=enheragu&theme=transparent&hide_border=true" />
+</p>
 
 <!--
 **enheragu/enheragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,3 +14,5 @@ I love these kind of stats, for now:
   <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=enheragu&theme=transparent&count_private=true&show_icons=true&hide_border=true&hide_title=true" /> -->
   <img width="45%" src="https://streak-stats.demolab.com?user=enheragu&theme=transparent&hide_border=true" />
 </p>
+
+You can check my [personal web page/CV](https://enheragu.github.io/) 😃

@@ -1,18 +1,16 @@
-### Hi there! R&D Engineer @ Robotics & CV 👋
+## Hey, I'm Enrique 👋
 
-**enheragu** · ROS/ROS2 | Computer Vision | 3D Printing | Python/C++
+I work on robotics and computer vision and IA — mainly perception systems,
+multi-spectral object detection and autonomous platforms. I enjoy understanding
+how things work and building whatever I need to do better research.
 
-**🔭 Currently working on**
-- Image processing and deep learning detection
-- ROS2/ROS1 action servers & multi-camera calibration pipelines
-- Multi-spectral datasets for object detection
-- Multi-material 3D printing workflows (Bambu Studio/G-code)
+Outside the lab: 3D printing, automation and tinkering in general 🛠️
 
-I love these kind of stats, for now:
+`Computer Vision` `DeepLearning` `Robotics` `Python` `C++` `ROS1/2` `OpenCV` `Linux`
 
 <p align="center">
-  <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=enheragu&theme=transparent&count_private=true&show_icons=true&hide_border=true&hide_title=true" /> -->
-  <img width="45%" src="https://streak-stats.demolab.com?user=enheragu&theme=transparent&hide_border=true" />
+  <img width="50%" src="https://streak-stats.demolab.com?user=enheragu&theme=transparent&hide_border=true" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enheragu&theme=transparent&hide_border=true&layout=compact&langs_count=6" />
 </p>
 
-You can check my [personal web page/CV](https://enheragu.github.io/) 😃
+[![Web/CV](https://img.shields.io/badge/CV-enheragu.github.io-blue?style=flat)](https://enheragu.github.io/)

@@ -14,3 +14,7 @@ Outside the lab: 3D printing, automation and tinkering in general 🛠️
 </p>
 
 [![Web/CV](https://img.shields.io/badge/CV-enheragu.github.io-blue?style=flat)](https://enheragu.github.io/)
+
+[![Google Scholar](https://img.shields.io/badge/GScholar-Enrique_Heredia--Aguado-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1J56jsMAAAAJ&hl=es)
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Enrique_Heredia--Aguado-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Enrique-Heredia-Aguado-2)
